@@ -1,0 +1,3 @@
+Fancy Input
+is a jQuery plugin that turns <input /> tag in to single or multi select element.
+The select list comes from a back end server that returns a JSON object representing the search results.
